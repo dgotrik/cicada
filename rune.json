@@ -1,0 +1,157 @@
+{
+	"0": {
+		"prime":"2",
+		"letter":"F",
+		"rune": "ᚠ"
+	},
+	"1": {
+		"prime":"3",
+		"letter":"U",
+		"rune": "ᚢ"
+	},
+	"2": {
+		"prime":"5",
+		"letter":"TH",
+		"rune": "ᚦ"
+	},
+	"3": {
+		"prime":"7",
+		"letter":"O",
+		"rune": "ᚩ"
+	},		
+	"4": {
+		"prime":"11",
+		"letter":"R",
+		"rune": "ᚱ"
+	},
+	"5": {
+		"prime":"13",
+		"letter":"C",
+		"alt_letter":"K",
+		"rune": "ᚳ",
+		"notes": "Does not occur in single rune words at all"
+	},
+	"6": {
+		"prime":"17",
+		"letter":"G",
+		"rune": "ᚷ"
+	},
+	"7": {
+		"prime":"19",
+		"letter":"W",
+		"rune": "ᚹ"
+	},
+	"8": {
+		"prime":"23",
+		"letter":"H",
+		"rune": "ᚻ"
+	},		
+	"9": {
+		"prime":"29",
+		"letter":"N",
+		"rune": "ᚾ"
+	},		
+	"10": {
+		"prime":"31",
+		"letter":"I",
+		"rune": "ᛁ"
+	},		
+	"11": {
+		"prime":"37",
+		"letter":"J",
+		"rune": "ᛄ"
+	},		
+	"12": {
+		"prime":"41",
+		"letter":"EO",
+		"rune": "ᛇ"
+	},		
+	"13": {
+		"prime":"43",
+		"letter":"P",
+		"rune": "ᛈ"
+	},		
+	"14": {
+		"prime":"47",
+		"letter":"X",
+		"rune": "ᛉ"
+	},		
+	"15": {
+		"prime":"53",
+		"letter":"S",
+		"alt_letter":"Z",
+		"rune": "ᛋ"
+	},		
+	"16": {
+		"prime":"59",
+		"letter":"T",
+		"rune": "ᛏ"
+	},		
+	"17": {
+		"prime":"61",
+		"letter":"B",
+		"rune": "ᛒ"
+	},		
+	"18": {
+		"prime":"67",
+		"letter":"E",
+		"rune": "ᛖ"
+	},		
+	"19": {
+		"prime":"71",
+		"letter":"M",
+		"rune": "ᛗ"
+	},		
+	"20": {
+		"prime":"73",
+		"letter":"L",
+		"rune": "ᛚ"
+	},		
+	"21": {
+		"prime":"79",
+		"letter":"NG",
+		"alt_letter":"ING",
+		"rune": "ᛝ"
+	},		
+	"22": {
+		"prime":"83",
+		"letter":"OE",
+		"rune": "ᛟ"
+	},		
+	"23": {
+		"prime":"89",
+		"letter":"D",
+		"rune": "ᛞ"
+	},		
+	"24": {
+		"prime":"97",
+		"letter":"A",
+		"rune": "ᚪ"
+	},	
+	"25": {
+		"prime":"101",
+		"letter":"AE",
+		"rune": "ᚫ"
+	},	
+	"26": {
+		"prime":"103",
+		"letter":"Y",
+		"rune": "ᚣ"
+	},	
+	"27": {
+		"prime":"107",
+		"letter":"IA",
+		"alt_letter":"IO",
+		"rune": "ᛡ"
+	},	
+	"28": {
+		"prime":"109",
+		"letter":"EA",
+		"rune": "ᛠ"
+	},
+    "-":{
+        "prime":"1",
+        "letter": " ",
+        "rune":"-"
+    }
+}
